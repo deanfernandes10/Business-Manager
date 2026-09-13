@@ -1,3 +1,3 @@
 import './style.css';
-export const metadata = {title:'NorthRidge Business Manager · v10', robots:{index:false,follow:false}};
+export const metadata = {title:'NorthRidge Business Manager · v11', icons:{icon:'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE5NyAxNiAyODQgMjA0Ij48cmVjdCB4PSIxOTciIHk9IjE2IiB3aWR0aD0iMjg0IiBoZWlnaHQ9IjIwNCIgcng9IjE2IiBmaWxsPSIjMTAyODNkIi8+PGcgZmlsbD0iI2YzZjVmNyI+PHBhdGggZD0iTTIxNyAxODAgMjk5IDgxIDMyMiAxMDkgMzEwIDEyNCAyOTkgMTExIDI0NCAxODBaIi8+PHBhdGggZD0iTTI2OSAxODAgMzY1IDU2IDQ2MSAxODAgNDMzIDE4MCAzNjUgOTIgMjk3IDE4MFoiLz48L2c+PC9zdmc+'}, robots:{index:false,follow:false}};
 export default function Layout({children}) {return <html lang="en"><body>{children}</body></html>;}
